@@ -60,7 +60,7 @@ class ContactForm extends Component {
           />
         </label>
 
-        <button type="submit" className={s.buttonEditor}>
+        <button type="submit" className={sty.buttonEditor}>
           Add contact
         </button>
       </form>
